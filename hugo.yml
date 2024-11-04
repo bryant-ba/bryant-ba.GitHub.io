@@ -40,7 +40,7 @@ languages:
   zh:
     languageName: "中文"
     weight: 4
-    title: "博客"
+    title: "Olumel's Blog"
     taxonomies:
       category: 分类
       tag: 标签
@@ -60,7 +60,7 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
     params:
-      languageAltTitle: "简体中文"
+      languageAltTitle: "中文"
       profileMode:
         enabled: true
         title: "个人简介"
