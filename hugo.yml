@@ -71,7 +71,7 @@ languages:
           - name: 博客
             url: posts
           - name: 个人简介
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+            url: content/about.md
 outputs:
   home:
     - HTML
